@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Razorpay_Integration/static/css/main.e6c13ad2.css",
+    "main.js": "/Razorpay_Integration/static/js/main.ef63cb57.js",
+    "static/js/488.9c92ff38.chunk.js": "/Razorpay_Integration/static/js/488.9c92ff38.chunk.js",
+    "index.html": "/Razorpay_Integration/index.html",
+    "main.e6c13ad2.css.map": "/Razorpay_Integration/static/css/main.e6c13ad2.css.map",
+    "main.ef63cb57.js.map": "/Razorpay_Integration/static/js/main.ef63cb57.js.map",
+    "488.9c92ff38.chunk.js.map": "/Razorpay_Integration/static/js/488.9c92ff38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ef63cb57.js"
+  ]
+}
